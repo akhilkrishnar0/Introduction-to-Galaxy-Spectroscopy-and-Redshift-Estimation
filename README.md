@@ -1,3 +1,4 @@
+
 # **Introduction to Galaxy Spectroscopy and Redshift Estimation**
 
 Understanding galaxy spectra is fundamental in extragalactic astronomy. By analyzing the light emitted or absorbed by galaxies, we can determine their physical properties, chemical composition, and motion relative to us. One of the most crucial measurements from spectra is the **redshift (z)**, which provides insights into the universe's expansion and the distance of galaxies.
@@ -34,3 +35,6 @@ In this session, we will:
 ✅ Apply this shift to correct the spectrum and compare it with standard spectral features.  
 
 By the end of this exercise, you will gain hands-on experience in **analyzing galaxy spectra, identifying spectral lines, and estimating redshifts**—essential skills for observational astronomy!
+
+#Made for the workshop hands-on session.
+
